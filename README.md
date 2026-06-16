@@ -14,7 +14,21 @@ The project covers the complete Data Science workflow:
 ✅ Feature Importance Analysis
 
 ---
+## 📈 Results Summary
 
+| Metric | Score |
+|----------|----------|
+| MAE | 0.983 |
+| RMSE | 1.254 |
+| R² Score | 0.151 |
+
+### 🔍 Key Findings
+
+- 👍 Votes were the most influential feature.
+- 🎭 Drama was the most common genre.
+- 🎬 Gulzar was the highest-rated director (minimum 10 films).
+- ⭐ Dev Anand had the highest average rating among actors with 50+ movies.
+- 📊 Genre and actor information significantly impacted predictions.
 ## 🎯 Objective
 
 To build a machine learning model capable of predicting IMDb movie ratings based on:
